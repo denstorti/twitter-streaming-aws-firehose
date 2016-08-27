@@ -6,10 +6,10 @@ var firehose = new AWS.Firehose();
 var Twitter = require('twitter');
  
 var client = new Twitter({
-  consumer_key: 'hl3HY5ESVj13XS07nWJhVnfGD',
-  consumer_secret: 'FNbzfeeKShVXryuqJfKCuMXhbRyoLzOd9ewsdAtUUvOXol9WiS',
-  access_token_key: '94481259-4F6xKU3N0x0PJRlBOWdSjCnhW159DqASXvgeIerGR',
-  access_token_secret: 'vgpaOFA406ohLDiJnxgpUaulYLXJjN1gWaWx39IsyUDhd'
+  consumer_key: '',
+  consumer_secret: '',
+  access_token_key: '',
+  access_token_secret: ''
 });
 
 
