@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "twitter": "~1.4.0"
+    "twitter": "~1.4.0",
+    "aws-sdk": "~2.5.3"
   },
   "devDependencies": {},
   "scripts": {
